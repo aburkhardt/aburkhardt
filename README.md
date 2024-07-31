@@ -4,7 +4,7 @@ Hi 👋 My name is Anne
 labor technologist
 ------------------
 
-Experienced, versatile technologist with a strong labor background. Skilled collaborator with experience developing and maintaining web applications, data management, and technical support to diverse stakeholders. Proficient in Python, Flask, SQL, and various data visualization tools. Committed to enhancing user experience and building the union movement.
+Experienced, versatile technologist with a strong labor background. Skilled collaborator with experience developing and maintaining web applications, data management, and technical support to union locals. Basically: I'm easy to work with, a fast learner, and care a lot about making tech tools that labor unions can actually use.
 
 * 🌍  I'm based in Minneapolis
 * 🚀  I'm currently working on [SEIU MN's ballot site](http://voteseiumn.org)
