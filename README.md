@@ -29,7 +29,7 @@ Experienced, versatile technologist with a strong labor background. Skilled coll
   <a href="https://squarespace.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/squarespace-colored.svg" width="36" height="36" alt="Squarespace" /></a>
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://pbs.twimg.com/profile_images/1313389057792147456/tpQNbgMz_400x400.jpg" width="36" height="36" alt="Google Workspace" /></a>
+    <img src="https://static.wikia.nocookie.net/logopedia/images/c/c1/Google_Apps_for_Work_icon.png/revision/latest/scale-to-width-down/250?cb=20241121044151" width="36" height="36" alt="Google Workspace" /></a>
   <a href="https://www.airtable.com/" target="_blank" rel="noreferrer">
     <img src="https://images.ctfassets.net/wl95ljfippl8/30nOgPmcoEISnvmpW6ddVW/94a53c7940401c11031dcf7dae6abc00/Group_884.png" width="36" height="36" alt="Airtable" /></a>
   <a href="https://emembership.winmill.com/" target="_blank" rel="noreferrer">
