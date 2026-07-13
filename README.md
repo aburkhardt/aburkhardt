@@ -6,10 +6,6 @@ labor technologist
 
 Experienced, versatile technologist with a strong labor background. Skilled collaborator with experience developing and maintaining web applications, data management, and technical support to union locals. <b>Basically: I'm easy to work with, a fast learner, and care a lot about making tech tools that labor unions can actually use.</b>
 
-* 🌍  I'm based in Minneapolis
-* 🚀  I'm currently working on [SEIU MN's ballot site](http://voteseiumn.org) & a program to submit exports from Winmill's eMembership to MAPP
-* 🧠  I'm learning FastAPI, React, MongoDB
-
 ### Skills
 
 
